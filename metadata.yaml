@@ -1,0 +1,27 @@
+_repo: Le-Journal-d-une-Femme-de-Chambre_16820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mirbeau, Octave
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '6950'
+    url: http://www.gutenberg.org/2009/agents/6950
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16820'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+title: Le Journal d'une Femme de Chambre
+url: http://www.gutenberg.org/ebooks/16820
